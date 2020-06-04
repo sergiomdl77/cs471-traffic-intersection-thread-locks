@@ -19,7 +19,9 @@ not occur in the intersection). So if a car approaches from the North, depending
 proceeds through the intersection as follows:
 
 Right: NW
+
 Straight: NW-SW
+
 Left: NW-SW-SE
 
 The file you are to work with is in ~/os161/os161-1.11/kern/asst1. Ignore catsem.c and
