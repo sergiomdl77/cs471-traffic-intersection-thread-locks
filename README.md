@@ -1,5 +1,17 @@
 # cs471-traffic-intersection-thread-locks
 
+BEFORE REVIEWING THIS PROJECT, IT IS IMPORTANT TO KNOW THE FOLLOWING:
+
+This assignment will familiarize you with an operating system called OS/161 and also with System/161
+which is the machine simulator on which OS/161 runs.  OS/161 is the operating system that I had to 
+augment in this programming assignment.
+
+The OS/161 distribution contains a full operating system source tree (provided to me in order
+to complete this project), including some utility programs and libraries. 
+
+This project was created to put into practice our my knowledge on synchronization of threads. The
+language used for this project was C. 
+
 Project Summary:
 
 Synchronization Problem: Traffic Management at Podunk
