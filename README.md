@@ -9,7 +9,7 @@ augment in this programming assignment.
 The OS/161 distribution contains a full operating system source tree (provided to me in order
 to complete this project), including some utility programs and libraries. 
 
-This project was created to put into practice our my knowledge on synchronization of threads. The
+This project was created to put into practice my knowledge on synchronization of threads. The
 language used for this project was C. 
 
 Project Summary:
